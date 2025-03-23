@@ -62,7 +62,7 @@ if ($weight !== null && $duration !== null && $weight > 0 && $duration > 0) {
                             <p class="mb-0 text-muted">CIS 1202 - <i>Web Development I</i> | BSCS 1</p>
                         </div>
                     </div>
-                    <h3 class="mb-0">PHP Activity 1</h3>
+                    <h3 class="mb-0">PHP Activity</h3>
                 </div>
                 <hr class="mt-3 mb-0" />
             </div>
