@@ -72,7 +72,7 @@ if ($weight !== null && $duration !== null && $weight > 0 && $duration > 0) {
                   <div class="card-header card-color border-bottom-0 p-0">
                     <h4 class="mb-0"><i class="bi bi-music-note-list"></i> | Album Duration Calculator</h4>
                   </div>
-                  <hr />
+                  <hr class="mt-2" />
                   <div class="card-body">
                     <form method="post" class="w-100">
                       <div class="mb-3">
@@ -92,7 +92,7 @@ if ($weight !== null && $duration !== null && $weight > 0 && $duration > 0) {
                   <div class="card-header card-color border-bottom-0 p-0">
                     <h4 class="mb-0"><i class="bi bi-airplane"></i> | Fuel Efficiency Calculator</h4>
                   </div>
-                  <hr />
+                  <hr class="mt-2" />
                   <div class="card-body">
                     <form method="post" class="w-100">
                       <div class="mb-3">
@@ -112,7 +112,7 @@ if ($weight !== null && $duration !== null && $weight > 0 && $duration > 0) {
                   <div class="card-header card-color border-bottom-0 p-0">
                     <h4 class="mb-0"><i class="bi bi-fire"></i> | Calorie Burn Calculator</h4>
                   </div>
-                  <hr />
+                  <hr class="mt-2" />
                   <div class="card-body">
                     <form method="post" class="w-100">
                       <div class="mb-3">
