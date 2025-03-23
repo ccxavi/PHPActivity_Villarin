@@ -83,7 +83,7 @@ if ($weight !== null && $duration !== null && $weight > 0 && $duration > 0) {
                         <label for="avg_duration" class="form-label">Average Song Duration (minutes):</label>
                         <input type="number" step="0.01" name="avg_duration" id="avg_duration" class="form-control" required>
                       </div>
-                      <button type="submit" class="btn btn-primary w-100">Calculate</button>
+                      <button type="submit" class="btn btn-primary w-100 mt-2">Calculate</button>
                     </form>
                   </div>
                 </div>
@@ -103,7 +103,7 @@ if ($weight !== null && $duration !== null && $weight > 0 && $duration > 0) {
                         <label for="fuel_consumed" class="form-label">Fuel Consumed (liters):</label>
                         <input type="number" step="0.01" name="fuel_consumed" id="fuel_consumed" class="form-control" required>
                       </div>
-                      <button type="submit" class="btn btn-primary w-100">Calculate</button>
+                      <button type="submit" class="btn btn-primary w-100 mt-2">Calculate</button>
                     </form>
                   </div>
                 </div>
@@ -123,7 +123,7 @@ if ($weight !== null && $duration !== null && $weight > 0 && $duration > 0) {
                         <label for="duration" class="form-label">Exercise Duration (minutes):</label>
                         <input type="number" name="duration" id="duration" class="form-control" required>
                       </div>
-                      <button type="submit" class="btn btn-primary w-100">Calculate</button>
+                      <button type="submit" class="btn btn-primary w-100 mt-2">Calculate</button>
                     </form>
                   </div>
                 </div>
